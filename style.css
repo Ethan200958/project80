@@ -1,0 +1,31 @@
+body {
+    background-color: burlywood;
+    text-align:center;
+}
+ #para1 {
+     float: left;
+     margin-top: 75px;
+ }
+#para2 {
+    float: right;
+    margin-top: 75px;
+}
+
+#parabutton1 {
+    background-color: black;
+    color: white;
+}
+ 
+#parabutton2 {
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+input{
+    background-color: blue;
+    color: white;
+}
